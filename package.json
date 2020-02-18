@@ -16,7 +16,7 @@
     "typescript": "^3.7.4"
   },
   "scripts": {
-    "test": "jasmine.ts --config=jasmine.json",
+    "test": "jasmine-ts --config=jasmine.json",
     "build": "tsc *.ts",
     "execute": "node main.js"
   },
